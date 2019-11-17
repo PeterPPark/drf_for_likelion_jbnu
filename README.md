@@ -59,3 +59,5 @@ vs code에서 command line에 http method post나 delete를 입력하면 그대�
 httpie 위에서 얘기한 명령어 그대로 쳐 보면 작동한다. 실제 직접 쳐 보면서 확인 하길 바란다. 한 가지 보고 갈 사항이 있는데 바로 <br><br>
 ![img_json_data](./img/2.png)
 <br>여기서 잘 보면 json 데이터가 넘어갈 때, data에서는 문자열 형태로 넘어가게 됨을 알 수 있다.
+
+## 4. 이후의 README는 제 블로그 (https://peterppark.github.io/)에서 확인 가능합니다.
