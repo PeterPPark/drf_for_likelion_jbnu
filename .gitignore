@@ -135,4 +135,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+#My_File
+/restprac
+/img
+/practice
+
 # End of https://www.gitignore.io/api/django
